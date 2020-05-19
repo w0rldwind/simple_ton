@@ -1,6 +1,6 @@
-#Description.
+# Description
 
-wallet.sh (./wallet.sh)
+# wallet.sh (./wallet.sh)
 
 This script is suitable for quick deployment of a wallet from scratch. Performing the necessary actions before receiving tokens and after.
 
@@ -28,7 +28,7 @@ Step 2 - The rest of the wallet.
 
 The scripts are raw, use strictly in the order: D
 
-sw.sh (./sw.sh)
+# sw.sh (./sw.sh)
 
 Small wallet to simplify the sending of tokens.
 
@@ -46,6 +46,7 @@ Uses the files created by wallet.sh:
 /tonos-cli/data/rawaddr.txt - your raw address
 
 /tonos-cli/data/phrase.txt - your seed phrase
+_____
 
 It is better to run scripts from the root directory, first allow the execution of chmod + x wallet.sh and chmod + x sw.sh
 
