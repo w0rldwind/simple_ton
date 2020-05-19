@@ -24,7 +24,7 @@ For convenience, you can use the balance check.
 
 Step 2 requires a positive balance!
 
-Step 2 - The rest of the wallet.
+Step 2 - Other wallet preparation processes.
 
 The scripts are raw, use strictly in the order: D
 
