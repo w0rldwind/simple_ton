@@ -48,7 +48,7 @@ Uses the files created by wallet.sh:
 /tonos-cli/data/phrase.txt - your seed phrase
 _____
 
-It is better to run scripts from the root directory, first allow the execution of chmod + x wallet.sh and chmod + x sw.sh
+It is better to run scripts from the root directory, first allow the execution of chmod +x wallet.sh and chmod +x sw.sh
 
 Everything was done quickly, there may be errors, check the log files
 
