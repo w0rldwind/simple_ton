@@ -64,6 +64,6 @@ then
     fi
   done
 else
-  echo $(date +'%d.%m.%Y %H:%M:%S') Ошибка Tonos-cli см. errors.log >> confirm.log
+  echo $(date +'%d.%m.%Y %H:%M:%S') Ошибка Tonos-cli см. errors.log >> confirms.log
   echo $(date +'%d.%m.%Y %H:%M:%S') $txs >> errors.log
 fi
